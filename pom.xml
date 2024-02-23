@@ -9,7 +9,7 @@
         <relativePath /> <!-- lookup parent from repository -->
     </parent>
 
-    <groupId>uk.ebi.ac.gdp</groupId>
+    <groupId>uk.ac.ebi.gdp</groupId>
     <artifactId>file-handler-core</artifactId>
     <version>1.0.5-SNAPSHOT</version>
     <packaging>jar</packaging>
