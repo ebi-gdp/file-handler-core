@@ -11,7 +11,7 @@
 
     <groupId>uk.ac.ebi.gdp</groupId>
     <artifactId>file-handler-core</artifactId>
-    <version>1.0.5-SNAPSHOT</version>
+    <version>1.0.5</version>
     <packaging>jar</packaging>
 
     <properties>
@@ -23,7 +23,7 @@
 
     <scm>
         <connection>scm:git:git@github.com:ebi-gdp/file-handler-core.git</connection>
-        <tag>HEAD</tag>
+        <tag>file-handler-core-1.0.5</tag>
     </scm>
 
     <dependencies>
